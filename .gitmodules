@@ -1,0 +1,6 @@
+[submodule "qt/qtbase"]
+	path = qt/qtbase
+	url = https://github.com/qt/qtbase.git
+[submodule "qt/qtdeclarative"]
+	path = qt/qtdeclarative
+	url = https://github.com/qt/qtdeclarative.git
